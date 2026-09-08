@@ -1,0 +1,5 @@
+#Конфигурация источника данных (data source)
+hibernate.driver_class=org.postgresql.Driver
+hibernate.connection.url=jdbc:postgresql://localhost:5432/tennis-scoreboard-repository
+hibernate.connection.username=YOUR_USERNAME
+hibernate.connection.password=YOUR_PASSWORD
